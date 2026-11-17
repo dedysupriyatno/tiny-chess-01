@@ -1,5 +1,11 @@
 # tiny-chess-01 entry
 
+[![make.fun](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/dedysupriyatno/tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/dedysupriyatno/tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01)
+
+Built for the [make.fun bounty "Build the strongest chess engine in 4 KB of Python"](https://make.fun/bounty/tiny-chess-01).
+
 Single-file Python engine (4,027 bytes, stdlib only), packed with
 `makefun compress` from the readable `source.py` (11,171 bytes) in
 this folder. Talks to the env exactly like the starter (POST /game,
